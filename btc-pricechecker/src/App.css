@@ -1,0 +1,42 @@
+.App {
+    background: teal;    
+}
+
+.container {
+    min-height: 70vh;
+    min-width: fill;
+    padding: 10px;
+}
+
+.App-footer {
+    padding: 20px;
+    text-align-last: center;
+    color: white;
+}
+
+/*React Logo Effects*/
+.React-logo {
+    height: 9vmin;
+    pointer-events: none;
+
+}
+
+@media (prefers-reduced-motion: no-preference) {
+    .React-logo {
+        animation: React-logo-spin infinite 9s linear;
+    }
+}
+
+@keyframes React-logo-spin {
+    from {
+        transform: rotate(-1deg);
+    }
+    to {
+        transform: rotate(359deg);
+    }
+}
+/* End Logo Effects */
+
+.React-link {
+    color: #60dafb;
+}

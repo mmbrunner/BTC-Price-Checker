@@ -1,0 +1,19 @@
+{
+    "cSpell.words": [
+        "browserslist",
+        "btcprices",
+        "pricechecks"
+    ],
+    "cSpell.ignoreWords": [
+        "reactlogo"
+    ],
+    "codemetrics.basics.CodeLensHiddenUnder": 5,
+    "codemetrics.basics.ComplexityLevelHigh": 20,
+    "codemetrics.basics.ComplexityLevelExtreme": 30,
+    "codemetrics.basics.ComplexityLevelHighDescription": "Is this necessary?",
+    "codemetrics.basics.ComplexityLevelLow": 5,
+    "codemetrics.basics.ComplexityLevelLowDescription": "Not bad.. yet..",
+    "codemetrics.basics.ComplexityLevelNormal": 10,
+    "codemetrics.basics.ComplexityLevelNormalDescription": "Much more and you won't remember why you're here",
+    "codemetrics.basics.ComplexityLevelExtremeDescription": "This can not be necessary!"
+}
