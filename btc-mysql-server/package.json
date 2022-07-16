@@ -1,6 +1,6 @@
 {
   "name": "btc-mysql-server",
-  "version": "0.2.0",
+  "version": "0.2.2",
   "description": "Backend API with Node.js, Express and MySQL",
   "main": "server.js",
   "scripts": {
