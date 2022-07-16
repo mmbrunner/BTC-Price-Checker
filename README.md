@@ -4,7 +4,7 @@ Here you will find the outline of the BTC Price Checker application
 
 I designed this application as a tech challenge from a friend to improve my understanding and abilities in React, Node, Express, and MySQL
 
-The goal of the application is to:
+## The goal of the application is to:
   
     Laucnh a server 
     Connect to a MySQL database
@@ -12,7 +12,7 @@ The goal of the application is to:
     Retrieve current price and post it to the database
     Retrieve and post current price automatically every hour between 6am-6pm
     
-Testing if:
+## Testing if:
 
     Server launches and connect to MySQL
     App connects to Server
