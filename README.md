@@ -6,7 +6,7 @@ I designed this application as a tech challenge from a friend to improve my unde
 
 ## The goal of the application is to:
   
-    Laucnh a server 
+    Launch a server 
     Connect to a MySQL database
     Retrieve 10 most recent entries and display them
     Retrieve current price and post it to the database
