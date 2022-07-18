@@ -18,13 +18,7 @@ class App extends Component {
           <Link to={"/pricecheck"} className="navbar-brand">
             <h2>BTC Price Checker</h2>
           </Link>
-          <div className="navbar-nav mr-auto">
-            {/* Redundant link 
-            <li>
-              <Link to={"/pricecheck"} className="nav-link">
-                <h4>10 Most Recent</h4>
-              </Link>
-            </li> */}
+          <div className="navbar-nav mr-auto">            
             <li>
               <Link to={"/add"} className="nav-link">
                 <h4>Current Price</h4>
