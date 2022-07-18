@@ -39,7 +39,7 @@ export default class PriceCheckList extends Component {
     render() {
         //const { pricecheck, currentPriceCheck, currentIndex } = this.state;
         return(
-            <div>
+            <div className="PC-List">
                 <div className="title">
                     <h4>10 Most Recent Price Checks</h4>
                 </div>

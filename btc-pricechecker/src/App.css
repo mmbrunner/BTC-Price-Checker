@@ -2,6 +2,16 @@
     background: teal;    
 }
 
+.PC-List {
+    color: black; /* Tried changing text color to black so I could see if it was on that white page caused by the Routes on App.js */
+}
+
+.list {
+    text-align: left;
+    max-width: auto;
+    margin: auto;
+}
+
 .container {
     min-height: 70vh;
     min-width: fill;

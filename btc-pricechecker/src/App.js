@@ -1,7 +1,7 @@
 import reactlogo from './logo.svg';
 import logo from './favicon.png'
 import React, { Component } from "react";
-import { Switch, Route, Link } from "react-router-dom";
+import { Routes, Route, Link } from "react-router-dom";
 import "bootstrap/dist/css/bootstrap.min.css";
 import './App.css';
 import PriceCheckList from './components/PriceCheckList.component.js';
@@ -28,11 +28,11 @@ class App extends Component {
         </nav>
 
         <div className="container mt-3">
-          {/* Switch is not working properly
-          <Switch>
+        {/* Routes replaced Switches but all I get when I remove the comment tags is a white page
+        <Routes> 
             <Route exact path={["/", "/pricecheck"]} component={PriceCheckList} />
             <Route exact path="/add" component={AddPriceCheck} />
-          </Switch> */}
+        </Routes> */}
         </div>
         <div className="App-footer">
         <img src={reactlogo} className="React-logo" alt="react" />
