@@ -30,8 +30,8 @@ class App extends Component {
         <div className="container mt-3">
         {/* Routes replaced Switches but all I get when I remove the comment tags is a white page
         <Routes> 
-            <Route exact path={["/", "/pricecheck"]} component={PriceCheckList} />
-            <Route exact path="/add" component={AddPriceCheck} />
+            <Route exact path={["/", "/pricecheck"]} element={PriceCheckList} />
+            <Route exact path="/add" element={AddPriceCheck} />
         </Routes> */}
         </div>
         <div className="App-footer">
