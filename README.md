@@ -1,7 +1,5 @@
 # BTC-Price-Checker
 
-Here you will find the outline of the BTC Price Checker application
-
 I designed this application as a tech challenge from a friend to improve my understanding and abilities in React, Node, Express, and MySQL
 
 ## The goal of the application is to:
