@@ -1,1 +1,4 @@
-{}
+{
+    "version": "1.0.0",
+    "disable_existing_loggers": false
+}
